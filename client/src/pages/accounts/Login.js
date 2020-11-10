@@ -68,7 +68,7 @@ export default function Login() {
             }
         }
 
-        fn();
+        fn(); //이부분 함수로 빼놨는지 설명좀 
     };
 
     const layout = {
